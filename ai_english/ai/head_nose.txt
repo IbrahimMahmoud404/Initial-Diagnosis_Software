@@ -1,0 +1,9 @@
+headache
+nose
+ear
+throat
+cold
+cough
+ache
+pain
+pocket
